@@ -1,8 +1,8 @@
 .navbar {
-  background-image: url('./navbar-bg.jpg');
-  background-size: cover;        /* Scale the image to cover the entire navbar */
-  background-repeat: no-repeat;  /* Prevent tiling */
-  background-position: center;   /* Center the image */
+  background-image: url('/assets/navbar-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   padding: 15px;
   display: flex;
   gap: 20px;
