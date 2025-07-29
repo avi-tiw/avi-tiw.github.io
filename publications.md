@@ -1,1 +1,1 @@
-Aditya Vijaykumar, Avinash Tiwari, Shasvath J Kapadia, KG Arun, Parameswaran Ajith: "Waltzing binaries: Probing the line-of-sight acceleration of merging compact objects with gravitational waves" [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/acd77d/meta)
+1. Aditya Vijaykumar, Avinash Tiwari, Shasvath J Kapadia, KG Arun, Parameswaran Ajith: "Waltzing binaries: Probing the line-of-sight acceleration of merging compact objects with gravitational waves" [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/acd77d/meta)
