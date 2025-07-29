@@ -5,7 +5,8 @@
   background-position: center;
   padding: 20px;
   display: flex;
-  gap: 40px; /* ← Increased gap between links */
+  justify-content: flex-end;
+  gap: 100px; /* ← Increased gap between links */
 }
 
 /* Style individual links inside navbar */
